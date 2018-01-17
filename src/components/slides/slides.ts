@@ -52,7 +52,7 @@ import { ViewController } from '../../navigation/view-controller';
  * You can add slides to a `@Component` using the following template:
  *
  * ```html
- * <ion-slides>
+ * <ion-slides pager>
  *   <ion-slide>
  *     <h1>Slide 1</h1>
  *   </ion-slide>
